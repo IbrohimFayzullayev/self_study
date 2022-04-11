@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header{
+  background: red;
+  font-size: 25px;
+  transition: 0.5s;
+  user-select: none;
+  backdrop-filter: blur(15px);
+}
